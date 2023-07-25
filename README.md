@@ -1,6 +1,6 @@
 # NodeJS_Express_Sample1
 
-## How to set you Express application
+## How to set your first Express application
 
 1. First open VSCode and create an "index.js" file with this code
 
